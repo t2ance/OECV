@@ -1,7 +1,7 @@
 # _Threshold Moving for Online Class Imbalance Learning with Dynamic Evolutionary Cost Vector_
 
 
-This folder contains the implementation of OECV (_Threshold Moving for **O**nline Class Imbalance Learning with Dynamic **E**volutionary **C**ost **V**ector_).
+This folder contains the official implementation of OECV (_Threshold Moving for **O**nline Class Imbalance Learning with Dynamic **E**volutionary **C**ost **V**ector_).
 
 ## Steps to reproduce our results
 
@@ -15,3 +15,4 @@ pip install -r requirements.txt
 ```
 python src/base/framework.py
 ```
+You can change the setting inside the script to easily reproduce our results.
